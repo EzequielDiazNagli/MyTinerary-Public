@@ -1,0 +1,111 @@
+{
+    "data":
+    {
+        "name": "Ruins of Mexico",
+        "itineraryImage": "https://i0.wp.com/historiasdelahistoria.com/wordpress-2.3.1-ES-0.1-FULL/wp-content/uploads/2019/06/Chichen-Itza.jpg?fit=852%2C480&ssl=1",
+        "user": "Jeanne Mcgaffey",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/female/57.jpg",
+        "price": "3",
+        "duration": "10",
+        "hashtags": ["ruins", "antiques", "history", "walk"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd862008d"
+    },
+    {
+        "name": "Xcaret Park",
+        "itineraryImage": "https://consejosdecancun.com/wp-content/uploads/2018/07/xcaret-cancun.jpg",
+        "user": "Matthew Glissendorf",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/male/76.jpg",
+        "price": "4",
+        "duration": "6",
+        "hashtags": ["canun", "fun", "park", "family"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd862008d"
+    },
+    {
+        "name": "Resting in paradise",
+        "itineraryImage": "https://viajes.nationalgeographic.com.es/medio/2020/02/24/la-bahia-de-bacuit_ee18e21b_1255x836.jpg",
+        "user": "Leslie Petito",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/female/70.jpg",
+        "price": "3",
+        "duration": "6",
+        "hashtags": ["beaches", "paradise", "white sand", "calm sea"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd8620095"
+    },
+    {
+        "name": "Action in paradise",
+        "itineraryImage": "https://viajes.nationalgeographic.com.es/medio/2020/02/24/la-bahia-de-bacuit_ee18e21b_1255x836.jpg",
+        "user": "Helena Sargsyan",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/female/55.jpg",
+        "price": "3",
+        "duration": "6",
+        "hashtags": ["kayak", "trekking", "diving", "snorkeling"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd8620095"
+    },
+    {
+        "name": "Surfing: lifestyle",
+        "itineraryImage": "https://s1.eestatic.com/2019/07/10/como/agua-como_hacer_412719155_127734819_1024x576.jpg",
+        "user": "Parker Makosky",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/male/14.jpg",
+        "price": "1",
+        "duration": "8",
+        "hashtags": ["surf", "wave breaker", "beach", "sport"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd862008f"
+    },
+    {
+        "name": "Getting to know Miami",
+        "itineraryImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/f7/b7/63.jpg",
+        "user": "King Eckes",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/male/62.jpg",
+        "price": "2",
+        "duration": "7",
+        "hashtags": ["everglades", "cruise", "city tour", "marketplace"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd862008f"
+    },
+    {
+        "name": "Monuments and places of interest",
+        "itineraryImage": "https://mail.marazul.com.ec/uploads/producto/1554229907.jpg",
+        "user": "Daniela Morganstern",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/female/60.jpg",
+        "price": "2",
+        "duration": "5",
+        "hashtags": ["Christ", "Redeemer", "Selarón", "Painel Etnias"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd862008c"
+    },
+    {
+        "name": "A walk through nature",
+        "itineraryImage": "https://quedigital.com.ar/web/wp-content/uploads/2019/01/prensa-reserva-pasarela.jpg",
+        "user": "Perla Sisco",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/female/38.jpg",
+        "price": "1",
+        "duration": "6",
+        "hashtags": ["nature", "walk", "parks", "family"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd8620090"
+    },
+    {
+        "name": "Sailed the dream",
+        "itineraryImage": "https://cdn.getyourguide.com/img/tour/620987633ab9b.jpeg/146.jpg",
+        "user": "Omer Naatz",
+        "userImage": "https://xsgames.co/randomusers/assets/avatars/male/29.jpg",
+        "price": "5",
+        "duration": "8",
+        "hashtags": ["browse", "tanned", "swim", "rest"],
+        "likes": "0",
+        "activities": ["Activity1", "Activity2", "Activity3"],
+        "cityId": "62a9e23e01194f9dd8620093"
+    },
+}
